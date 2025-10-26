@@ -61,4 +61,3 @@ Refer to `MODEL PREDIKTOR SENTIMENT.pptx` for visuals and a summary of model des
 ## 🙋‍♂️ Author
 
 **Azhima Koraji**  
-Project developed as part of deep learning and NLP practice using TensorFlow.
